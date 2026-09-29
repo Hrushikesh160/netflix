@@ -1,0 +1,17 @@
+export const genreList = [
+  'Action',
+  'Adventure',
+  'Comedy',
+  'Crime',
+  'Drama',
+  'Fantasy',
+  'Horror',
+  'Mystery',
+  'Sci-Fi',
+  'Thriller',
+  'Romance',
+  'Animation',
+  'Documentary',
+  'Family',
+  'Biography',
+];
